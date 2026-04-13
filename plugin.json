@@ -1,0 +1,7 @@
+{
+  "name": "groundwater-pro",
+  "version": "1.0.0",
+  "description": "地下水调查、溯源、治理全流程专业插件 - 覆盖实验室数据分析、污染源溯源、调查报告、管控方案、可研报告、投标文件、施工方案、施工图设计、政府汇报材料等",
+  "author": "Groundwater Professional",
+  "tags": ["groundwater", "environmental", "investigation", "remediation"]
+}
